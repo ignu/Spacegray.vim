@@ -35,6 +35,8 @@ hi Cursor          ctermbg=NONE ctermfg=NONE   guibg=#6C6C6C  guifg=NONE     cte
 hi CursorColumn    ctermbg=0    ctermfg=NONE   guibg=#303030  guifg=NONE     cterm=NONE      gui=NONE
 hi CursorLine      ctermbg=0    ctermfg=NONE   guibg=#303030  guifg=NONE     cterm=NONE      gui=NONE
 
+hi SignColumn      ctermbg=233  ctermfg=248    guibg=#141617  guifg=#B3B8C4  cterm=NONE      gui=NONE
+
 hi Todo            ctermbg=NONE ctermfg=NONE   guibg=NONE     guifg=NONE     cterm=reverse   gui=reverse
 hi Error           ctermbg=52   ctermfg=12     guibg=NONE     guifg=#AF5F5F  cterm=underline gui=reverse
 hi ErrorMsg        ctermbg=NONE ctermfg=12     guibg=NONE     guifg=#C5735E  cterm=NONE      gui=NONE
